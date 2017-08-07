@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Litecoin testnet and solo mining
+title: Litecoin testnet
 ---
 
 Digital currencies ka cryptocurrencies have been gaining a lot traction recently. After the multi-year surge of [Bitcoin](https://bitcoin.org/en/) and more recently [Ethereum](https://www.ethereum.org/), there are now [hundreds](https://coinmarketcap.com/currencies/views/all/) of digital currencies.
@@ -16,7 +16,7 @@ To some extent, I view Litecoin as the testing ground for upcoming technologies 
 
 Personally, I see huge potential in cryptocurrencies, the reasons for which will become apparent through my posts. Due to that reason, I want to better understand the underlying technology mainly to appease my curiosity and be aware of what is going on in this space.
 
-In this post, I will detail, how you can get started with setting up a Litecoin testnet node and also use a CPU miner to mine some coins on the testnet. Briefly, testnet is a Litecoin network that is separate from the mainnet and is used for development/testing. Also, mining is the process of solving a computationally hard problem to establish a total ordering of the blocks (that contain transactions) and also serve as a mechanism for generating new coins (as a reward for the miners).
+In this post, I will detail, how you can get started with setting up a Litecoin testnet node. Briefly, testnet is a Litecoin network that is separate from the mainnet and is used for development/testing.
 
 If you want to learn about the fundamental concepts of Bitcoin, please read the excellent book by Andreas Antonopolous, [Mastering Bitcoin: Programming the Open Blockchain](https://www.amazon.com/gp/product/1491954388/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491954388&linkCode=as2&tag=bigendian08-20&linkId=ad35132b2cfa17f5434903a4b632da68)
 
@@ -94,5 +94,7 @@ $ ./litecoin-cli getinfo
 {% endhighlight %}
 
 The above output shows that we are connected to the testnet (two connections), the most recent block seen by the dawmon and the balance in terms of LTCT (testnet Litecoins).
+
+In a later post, we will continue from here and I will take you guys through setting up a solo CPU miner to mine some Litecoins on the testnet!
 
 -----
