@@ -3,12 +3,12 @@ layout: post
 title: Litecoin testnet
 ---
 
-Digital currencies ka cryptocurrencies have been gaining a lot traction recently. After the multi-year surge of [Bitcoin](https://bitcoin.org/en/) and more recently [Ethereum](https://www.ethereum.org/), there are now [hundreds](https://coinmarketcap.com/currencies/views/all/) of digital currencies.
+Digital currencies aka cryptocurrencies have been gaining a lot traction recently. After the multi-year surge of [Bitcoin](https://bitcoin.org/en/) and more recently [Ethereum](https://www.ethereum.org/), there are now [hundreds](https://coinmarketcap.com/currencies/views/all/) of digital currencies.
 
 [Litecoin](https://litecoin.org/) is an [altcoin](https://en.bitcoin.it/wiki/Altcoin) that was created by [Charlie Lee](https://twitter.com/satoshilite). Some of the main differences compared to Bitcoin include:
 - Four times as many coins as Bitcoin (21,000,000 * 4 = 84,000,000)
 - Four times less average block creation time (600 / 4 = 150 seconds)
-- Hash function (scrypt)[https://en.wikipedia.org/wiki/Scrypt#Introduction] vs. [SHA-256](https://en.bitcoin.it/wiki/SHA-256)
+- Hash function [scrypt](https://en.wikipedia.org/wiki/Scrypt#Introduction) vs. [SHA-256](https://en.bitcoin.it/wiki/SHA-256)
 
 In addition to the above, Litecoin has been pretty much one step ahead of Bitcoin for some time. For instance, Litecoin started using [Segregated Witness (SegWit)](http://www.investopedia.com/terms/s/segwit-segregated-witness.asp) [earlier](https://www.coindesk.com/litecoin-successfully-activates-long-debated-segwit-upgrade/) this year. SegWit is a technology that among other things enables much better scaling of the Bitcoin/Litecoin network.
 
