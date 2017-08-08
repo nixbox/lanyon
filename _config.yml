@@ -8,14 +8,14 @@ relative_permalinks: false
 title:               BigEndian
 tagline:             'Learn, love, loiter'
 description:         'A journal of my thoughts.'
-url:                 http://bigendian.io
-baseurl:             'http://bigendian.io/'
+url:                 'http://bigendian.io'
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Qasim Javed
-  url:               https://twitter.com/
+  url:               https://twitter.com/qasimj
   email:             jmisaq@gmail.com
 
 # Custom vars
