@@ -9,7 +9,7 @@ title:               BigEndian
 tagline:             'Learn, love, loiter'
 description:         'A journal of my thoughts.'
 url:                 http://bigendian.io
-baseurl:             ''
+baseurl:             'http://bigendian.io'
 paginate:            5
 
 # About/contact
